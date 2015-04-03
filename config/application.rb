@@ -25,5 +25,14 @@ module RailsReactTutorial
 
     # Add client/assets/stylesheets to asset pipeline's search path.
     config.assets.paths << Rails.root.join("client", "assets" ,"stylesheets")
+    config.middleware.insert_before 'Rack::Runtime', 'Rack::Cors' do
+      allow do
+        origins '*'
+        resource '*',
+        headers: :any,
+        methods: [:get, :put, :post, :patch, :delete, :options]
+      end
+    end
   end
 end
+

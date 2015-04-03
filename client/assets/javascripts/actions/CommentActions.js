@@ -9,7 +9,7 @@ class CommentActions {
     CommentsFetcher.fetch(url)
       .then((comments) => {
         this.actions.updateComments(comments); // trigger updateComments action
-      });
+      })
       .catch((errorMessage) => {
         this.actions.commentsFailed(errorMessage); // trigger commentsFailed action
       });

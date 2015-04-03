@@ -2,15 +2,24 @@
 // Essentially renders the top-level view-controller CommentBox component.
 
 var React = require('react/addons');
+var router = require('react-router');
+
 var $ = require('jquery');
 import { CommentBox } from './components/CommentBox';
+var CommentBox2 = React.createClass({
+  render: function () {
+    return (
+      <div className="grid-block shrink">Hello {this.props.name}!</div>
+    );
+  }
+});
 
 var render = () => {
   if ($("#content").length > 0) {
     React.render(
-      <div>
-        <CommentBox url="comments.json" pollInterval={2000} />
-        <div className="container">
+      <div className="grid-frame">
+        <CommentBox2 url="comments.json" pollInterval={2000}/>
+        <div className="grid-block">
           <a href="http://www.railsonmaui.com">
             <h3 className="open-sans-light">
               <div className="logo"/>

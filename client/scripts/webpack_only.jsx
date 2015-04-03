@@ -8,3 +8,6 @@ require("test-sass-stylesheet.scss");
 
 require("expose?$!jquery");
 require("expose?jQuery!jquery");
+
+require("../node_modules/foundation-apps/dist/css/foundation-apps.css")
+// require("../node_modules/foundation-apps/scss/foundation.scss")
