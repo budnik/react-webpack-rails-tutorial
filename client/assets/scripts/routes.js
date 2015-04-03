@@ -6,10 +6,12 @@ var App = require('./App');
 var BeanListPage = require('./pages/BeanListPage');
 var BeanItemPage = require('./pages/BeanItemPage');
 var BeanItemEditPage = require('./pages/BeanItemEditPage');
+var LoginPage = require('./pages/LoginPage');
 
 var routes = (
     <Route name="home" path='/' handler={App}>
         <DefaultRoute name="beanList" handler={BeanListPage} />
+        <Route name="login" path="/login" handler={LoginPage}/>
         <Route name="beanItemPage" path="/bean/:beanID" handler={BeanItemPage} />
         <Route name="beanItemEditPage" path="/bean/:beanID/edit" handler={BeanItemEditPage} />
     </Route>

@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "client"
+		}
+	],
+	"settings":
+	{
+		"ignored_packages":
+		[
+			"Highlighter",
+			"Theme - Soda",
+			"Vintage"
+		],
+		"translate_tabs_to_spaces": true
+	}
+}

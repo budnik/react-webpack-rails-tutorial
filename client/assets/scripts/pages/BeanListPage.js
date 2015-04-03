@@ -1,6 +1,6 @@
 var React = require('react');
-var BeanListActions = require('../../flux/actions/BeanListActions');
-var BeanListStore = require('../../flux/stores/BeanListStore');
+var BeanListActions = require('../actions/BeanListActions');
+var BeanListStore = require('../stores/BeanListStore');
 var ListenerMixin = require('alt/mixins/ListenerMixin');
 
 var BeanListItem = require('../components/BeanListItem');

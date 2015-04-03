@@ -15,6 +15,7 @@ var App = React.createClass({
                 <h1>Beans of War</h1>
                 <ul className="navigation">
                     <Link to='home'><li className="navigation-item">HOME</li></Link>
+                    <Link to='login'><li className="navigation-item">Login</li></Link>
                 </ul>
                 <RouteHandler {...this.props} />
             </div>

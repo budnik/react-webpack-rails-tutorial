@@ -7,7 +7,7 @@ var BeanProfile = React.createClass({
         var beanColor = this.props.beanItem.bean_color;
 
         var imgStyle = {
-            backgroundColor : beanColor
+            backgroundColor: beanColor
         };
 
         var spanStyle = {
@@ -24,7 +24,7 @@ var BeanProfile = React.createClass({
 
         return (
             <div>
-                <img style={imgStyle} className="beanImage" src="public/image/bean_stencil.png" />
+                <img style={imgStyle} className="beanImage" src="assets/images/bean_stencil.png" />
                 <h2>The <span style={spanStyle}>{this.props.beanItem.bean_name}</span> bean</h2>
                 <div className="bean-description">{this.props.beanItem.bean_description}</div>
                 <div className="bean-powers">
@@ -32,7 +32,7 @@ var BeanProfile = React.createClass({
                     <ul>{beanPowers}</ul>
                 </div>
             </div>
-        )
+        );
     }
 });
 

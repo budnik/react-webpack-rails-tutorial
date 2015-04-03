@@ -1,5 +1,7 @@
-var BeanListActions = require('../actions/BeanListActions');
+'use strict';
+
 var alt = require('../alt');
+var BeanListActions = require('../actions/BeanListActions');
 
 class BeanListStore {
     constructor() {

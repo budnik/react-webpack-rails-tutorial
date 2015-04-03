@@ -8,7 +8,7 @@ var comments = [{author: 'Pete Hunt', text: 'Hey there!'},
                 {author: 'Justin Gordon', text: 'Aloha from @railsonmaui'}];
 
 var server = new WebpackDevServer(webpack(config), {
-  //contentBase: "/public",
+  // contentBase: "/assets",
   publicPath: config.output.publicPath,
   hot: true,
   noInfo: false,

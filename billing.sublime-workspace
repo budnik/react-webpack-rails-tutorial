@@ -1,0 +1,2477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"schem",
+				"schema_plus"
+			],
+			[
+				"perfom",
+				"perform_later"
+			],
+			[
+				"not",
+				"not_a_workday"
+			],
+			[
+				"comp",
+				"companies"
+			],
+			[
+				"par",
+				"partner_user"
+			],
+			[
+				"name",
+				"name_filter"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"for",
+				"for_invoice"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"company",
+				"company_code"
+			],
+			[
+				"in",
+				"inconsistent"
+			],
+			[
+				"In",
+				"inconsistent"
+			],
+			[
+				"Com",
+				"Company"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"syste",
+				"system_note"
+			],
+			[
+				"cre",
+				"created_by"
+			],
+			[
+				"cap",
+				"capybara"
+			],
+			[
+				"sa",
+				"sanitize_html"
+			],
+			[
+				"Ar",
+				"argument"
+			],
+			[
+				"co",
+				"company"
+			],
+			[
+				"case",
+				"case_step"
+			],
+			[
+				"pho",
+				"phone_action_with_context"
+			],
+			[
+				"ad",
+				"administration_code"
+			],
+			[
+				"admini",
+				"administration"
+			],
+			[
+				"agg",
+				"agg_result"
+			],
+			[
+				"assert",
+				"assert_kind_of"
+			],
+			[
+				"chart",
+				"ChartifyAggs"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"geo",
+				"geo_missing"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"other",
+				"other_pies_data"
+			],
+			[
+				"segmen",
+				"segment_id"
+			],
+			[
+				"seg",
+				"segment_size"
+			],
+			[
+				"gzi",
+				"gziped_file"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"flash",
+				"flash_type"
+			],
+			[
+				"navbar-h",
+				"navbar-height"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"recen",
+				"recent_profiles"
+			],
+			[
+				"pro",
+				"profiles"
+			],
+			[
+				"event",
+				"events_filters"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"to",
+				"to_date"
+			],
+			[
+				"pr",
+				"profiles_available"
+			],
+			[
+				"hom",
+				"home_extra_data"
+			],
+			[
+				"api-se",
+				"api-segments"
+			],
+			[
+				"to_a",
+				"to_a"
+			],
+			[
+				"al",
+				"already_processed"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"exte",
+				"extension"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"expire",
+				"expire_at"
+			],
+			[
+				"expi",
+				"expire_at"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"ES",
+				"ES_PROFILES"
+			],
+			[
+				"index",
+				"index_name"
+			],
+			[
+				"track",
+				"track_attrs"
+			],
+			[
+				"bulk",
+				"bulk_create"
+			],
+			[
+				"ev",
+				"events_to_process"
+			],
+			[
+				"st",
+				"started_at"
+			],
+			[
+				"bu",
+				"bulk_update"
+			],
+			[
+				"redi",
+				"redis_node"
+			],
+			[
+				"red",
+				"redis_url"
+			],
+			[
+				"per",
+				"perform_async"
+			],
+			[
+				"S",
+				"SANE_RANGE"
+			],
+			[
+				"Side",
+				"sidekiq_web"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"L",
+				"link_to"
+			],
+			[
+				"q",
+				"queue_name"
+			],
+			[
+				"pri",
+				"profiles"
+			],
+			[
+				"id",
+				"identifiers"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"alert",
+				"alert-danger"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"App",
+				"AppsAndSites"
+			],
+			[
+				"td-",
+				"td-app-api-hits"
+			],
+			[
+				"defu",
+				"default-mapping"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"con",
+				"controller_or_array"
+			],
+			[
+				"active",
+				"active_if"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"conte",
+				"content_tag"
+			],
+			[
+				"adver",
+				"advertiser_restricted"
+			],
+			[
+				"cli",
+				"cli-options"
+			],
+			[
+				"val",
+				"validates"
+			],
+			[
+				"scroll",
+				"scroll_id"
+			],
+			[
+				"date",
+				"date_range"
+			],
+			[
+				"c",
+				"created_at"
+			],
+			[
+				"gra",
+				"granularity"
+			],
+			[
+				"end",
+				"end_of_day"
+			],
+			[
+				"filter",
+				"filtered"
+			],
+			[
+				"tota",
+				"total_documents"
+			],
+			[
+				"arc",
+				"archived"
+			],
+			[
+				"crative",
+				"creative2"
+			],
+			[
+				"plat",
+				"platform_id"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"line",
+				"line_item"
+			],
+			[
+				"Lin",
+				"line_item"
+			],
+			[
+				"lin",
+				"line_item_id"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"arch",
+				"archive"
+			],
+			[
+				"over",
+				"over_quota_per_day"
+			],
+			[
+				"be",
+				"between"
+			],
+			[
+				"moc",
+				"mock_user"
+			],
+			[
+				"aci",
+				"active_user"
+			],
+			[
+				"targe",
+				"targeted_for"
+			],
+			[
+				"image",
+				"image_creative"
+			],
+			[
+				"li",
+				"line_item"
+			],
+			[
+				"before",
+				"before_validation"
+			],
+			[
+				"crea",
+				"creative_params"
+			],
+			[
+				"media",
+				"media-body"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"game_",
+				"game_publisher_id"
+			],
+			[
+				"advert",
+				"advertiser_id"
+			],
+			[
+				"para",
+				"creative_params"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"sumb",
+				"subm_btn"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"or",
+				"original_filename"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"block",
+				"block_given"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"clic",
+				"click_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/assets/javascripts/flux/stores/BeanItemStore.js",
+			"settings":
+			{
+				"buffer_size": 757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/javascripts/flux/stores/BeanListStore.js",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var ReactRouter = require('react-router');\nvar routes = require('./routes');\n\nvar router = ReactRouter.create({\n    location: ReactRouter.HashLocation,\n    routes: routes\n});\n\nmodule.exports = router;",
+			"file": "client/assets/javascripts/react/router.js",
+			"file_size": 202,
+			"file_write_time": 130725275408367960,
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/scripts/index.js",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/scripts/App.js",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var React = require('react');\nvar { Route, DefaultRoute } = require('react-router');\n\nvar App = require('./App');\n\nvar BeanListPage = require('./pages/BeanListPage');\nvar BeanItemPage = require('./pages/BeanItemPage');\nvar BeanItemEditPage = require('./pages/BeanItemEditPage');\nvar LoginPage = require('./pages/LoginPage');\n\nvar routes = (\n    <Route name=\"home\" path='/' handler={App}>\n        <DefaultRoute name=\"beanList\" handler={BeanListPage} />\n        <Route name=\"login\" path=\"/login\" handler={LoginPage}/>\n        <Route name=\"beanItemPage\" path=\"/bean/:beanID\" handler={BeanItemPage} />\n        <Route name=\"beanItemEditPage\" path=\"/bean/:beanID/edit\" handler={BeanItemEditPage} />\n    </Route>\n);\n\nmodule.exports = routes;\n",
+			"file": "client/assets/javascripts/react/routes.js",
+			"file_size": 735,
+			"file_write_time": 130725348338284708,
+			"settings":
+			{
+				"buffer_size": 735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "'use strict';\n\nvar React = require('react');\nvar SessionActionCreators = require('../../../flux/actions/SessionActionCreators');\n// var SessionStore = require('../../stores/SessionStore.react.jsx');\n\nvar LoginPage = React.createClass({\n  getInitialState() {\n    return { errors: [] };\n  },\n\n  // componentDidMount() {\n  //   SessionStore.addChangeListener(this._onChange);\n  // },\n\n  // componentWillUnmount() {\n  //   SessionStore.removeChangeListener(this._onChange);\n  // },\n\n  // _onChange() {\n  //   this.setState({ errors: SessionStore.getErrors() });\n  // },\n\n  _onSubmit(e) {\n    e.preventDefault();\n    this.setState({ errors: [] });\n    var email = this.refs.email.getDOMNode().value;\n    var password = this.refs.password.getDOMNode().value;\n    SessionActionCreators.login(email, password);\n  },\n\n  render() {\n    // var errors = (this.state.errors.length > 0) ? <ErrorNotice errors={this.state.errors}/> : <div></div>;\n    var errors = '';\n    return (\n      <div>\n        {errors}\n        <div className=\"row\">\n          <div className=\"card card--login small-10 medium-6 large-4 columns small-centered\">\n            <form onSubmit={this._onSubmit}>\n              <div className=\"card--login__field\">\n                <label name=\"email\">Email</label>\n                <input type=\"text\" name=\"email\" ref=\"email\" />\n              </div>\n              <div className=\"card--login__field\">\n                <label name=\"password\">Password</label>\n                <input type=\"password\" name=\"password\" ref=\"password\" />\n              </div>\n              <button type=\"submit\" className=\"card--login__submit\">Login</button>\n            </form>\n          </div>\n        </div>\n      </div>\n    );\n  }\n});\n\nmodule.exports = LoginPage;\n",
+			"file": "client/assets/javascripts/react/pages/LoginPage.js",
+			"file_size": 1742,
+			"file_write_time": 130725394470032652,
+			"settings":
+			{
+				"buffer_size": 1742,
+				"line_ending": "Unix",
+				"name": "var React = require('react');"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/javascripts/api/BillingAPI.js",
+			"settings":
+			{
+				"buffer_size": 680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/assets/javascripts/flux/actions/SessionActionCreators.js",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Unix",
+				"name": "var SmallAppDispatcher = require('../dispatcher/Sm"
+			}
+		},
+		{
+			"contents": "var React = require('react');\nvar { RouteHandler, Link } = require('react-router');\nvar { PropTypes } = React;\n\nvar App = React.createClass({\n\n    propTypes: {\n        params: PropTypes.object.isRequired,\n        query: PropTypes.object.isRequired\n    },\n\n    render: function() {\n        return (\n            <div>\n                <h1>Beans of War</h1>\n                <ul className=\"navigation\">\n                    <Link to='home'><li className=\"navigation-item\">HOME</li></Link>\n                    <Link to='login'><li className=\"navigation-item\">Login</li></Link>\n                </ul>\n                <RouteHandler {...this.props} />\n            </div>\n        );\n    }\n});\n\nmodule.exports = App;\n",
+			"file": "client/assets/javascripts/react/App.js",
+			"file_size": 704,
+			"file_write_time": 130725391607492779,
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linset",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"GoSublime: License (MIT)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"packges",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"userset",
+				"GoSublime: User Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"cloju",
+				"Set Syntax: Clojure"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"cl",
+				"Set Syntax: Clojure"
+			],
+			[
+				"settin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"re",
+				"File: Revert"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"userse",
+				"GoSublime: User Settings"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pi",
+				"Permute Lines: Unique"
+			],
+			[
+				"repos",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"upca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"JSO",
+				"Set Syntax: JSON"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"sett",
+				"Preferences: Settings - Default"
+			],
+			[
+				"toggleme",
+				"View: Toggle Menu"
+			],
+			[
+				"togme",
+				"View: Toggle Menu"
+			],
+			[
+				"toggme",
+				"View: Toggle Menu"
+			],
+			[
+				"togm",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"jsi",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"rev",
+				"File: Revert"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"git",
+				"Package Control: List Packages"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"togl",
+				"View: Toggle Side Bar"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"tog",
+				"View: Toggle Side Bar"
+			],
+			[
+				"defa",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"defal",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"togglesi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"togglemin",
+				"View: Toggle Minimap"
+			],
+			[
+				"togglema",
+				"View: Toggle Minimap"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"cof",
+				"Coffee: Quick Run Bar"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"fol",
+				"File: Close All"
+			]
+		],
+		"width": 950.0
+	},
+	"console":
+	{
+		"height": 1001.0,
+		"history":
+		[
+			"view.settings().get('ignored_packages')",
+			"view.settings().get('font_face')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib3.install_opener(urllib3.build_opener(urllib3.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib3.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib3,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib3.install_opener(urllib3.build_opener(urllib3.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib3.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib3.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dmytro/react-webpack-rails-tutorial",
+		"/home/dmytro/react-webpack-rails-tutorial/client",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets/scripts",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets/scripts/components",
+		"/home/dmytro/react-webpack-rails-tutorial/client/scripts",
+		"/home/dmytro/react-webpack-rails-tutorial/client",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets",
+		"/home/dmytro/react-webpack-rails-tutorial/client/scripts"
+	],
+	"file_history":
+	[
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets/javascripts/constants/Constants.js",
+		"/home/dmytro/react-webpack-rails-tutorial/client/package.json",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets/javascripts/api/BillingAPI.js",
+		"/home/dmytro/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/dmytro/.config/sublime-text-3/Packages/GoSublime/LICENSE.md",
+		"/home/dmytro/react-webpack-rails-tutorial/Procfile.dev",
+		"/home/dmytro/react-webpack-rails-tutorial/billing.sublime-project",
+		"/home/dmytro/react-webpack-rails-tutorial/Rakefile",
+		"/home/dmytro/react-webpack-rails-tutorial/CHANGELOG.md",
+		"/home/dmytro/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/dmytro/react-webpack-rails-tutorial/config/routes.rb",
+		"/home/dmytro/react-webpack-rails-tutorial/client/scripts/webpack_only.jsx",
+		"/home/dmytro/react-webpack-rails-tutorial/client/webpack.rails.config.js",
+		"/home/dmytro/react-webpack-rails-tutorial/client/webpack.hot.config.js",
+		"/home/dmytro/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/dmytro/.config/sublime-text-3/Packages/Highlighter/highlighter.sublime-settings",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets/javascripts/App.jsx",
+		"/home/dmytro/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets/javascripts/api/foo.jsx",
+		"/home/dmytro/react-webpack-rails-tutorial/.eslintrc",
+		"/home/dmytro/react-webpack-rails-tutorial/client/webpack.common.config.js",
+		"/home/dmytro/react-webpack-rails-tutorial/client/assets/javascripts/components/CommentBox.jsx",
+		"/home/dmytro/react-webpack-rails-tutorial/Gemfile",
+		"/home/dmytro/react-webpack-rails-tutorial/app/assets/stylesheets/application.css.scss",
+		"/home/dmytro/ingr/init.rb",
+		"/home/dmytro/payt/Gemfile",
+		"/home/dmytro/payt/bin/bundle",
+		"/home/dmytro/payt/app/controllers/users_controller.rb",
+		"/home/dmytro/payt/app/models/ability.rb",
+		"/home/dmytro/payt/app/models/company.rb",
+		"/home/dmytro/payt/lib/executer.rb",
+		"/home/dmytro/payt/app/models/credit_case.rb",
+		"/home/dmytro/payt/config/initializers/middleware.rb",
+		"/home/dmytro/payt/app/services/credit_cases/create.rb",
+		"/home/dmytro/payt/spec/spec_helper.rb",
+		"/home/dmytro/payt/Gemfile.lock",
+		"/home/dmytro/payt/app/workers/generic_job.rb",
+		"/home/dmytro/payt/config/application.rb",
+		"/home/dmytro/payt/spec/features/import_spec.rb",
+		"/home/dmytro/payt/app/workers/response_job.rb",
+		"/home/dmytro/payt/app/workers/import_job.rb",
+		"/home/dmytro/payt/app/models/import.rb",
+		"/home/dmytro/payt/config/initializers/ideal.rb",
+		"/home/dmytro/payt/app/services/import/deliver_hq_invoice_fetcher.rb",
+		"/home/dmytro/payt/config/environments/development.rb",
+		"/home/dmytro/payt/app/mailers/debtor_mailer.rb",
+		"/home/dmytro/payt/spec/fixtures/vcr_cassettes/deliverhq_attachment.yml",
+		"/home/dmytro/payt/app/controllers/import/wizard/twinfield_controller.rb",
+		"/home/dmytro/payt/app/controllers/import/wizard/exact_online_controller.rb",
+		"/home/dmytro/payt/spec/controllers/messages_controller_spec.rb",
+		"/home/dmytro/payt/app/controllers/import/wizard/csv_controller.rb",
+		"/home/dmytro/payt/app/models/invoice_step.rb",
+		"/home/dmytro/payt/app/models/import/task.rb",
+		"/home/dmytro/payt/app/controllers/messages_controller.rb",
+		"/home/dmytro/payt/config/environments/test.rb",
+		"/home/dmytro/payt/lib/exact_online_api/restful/resources/general_journal_entry_lines.rb",
+		"/home/dmytro/payt/config/deploy/feature.rb",
+		"/home/dmytro/payt/app/views/user_mailer/forgot_username.text.erb",
+		"/home/dmytro/payt/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/home/dmytro/payt/tmp/cache/assets/debiteurenbeheer/sass/2a2576ca6b1faf2f8db18256cdaa76441a936d7d/_progress-bars.scssc",
+		"/home/dmytro/payt/config/environments/production.rb",
+		"/home/dmytro/payt/app/reports/partners_report.rb",
+		"/home/dmytro/payt/app/models/payment_plan.rb",
+		"/home/dmytro/payt/app/controllers/invoices_controller.rb",
+		"/home/dmytro/payt/app/controllers/admin/companies_controller.rb",
+		"/home/dmytro/payt/lib/receiver.rb",
+		"/home/dmytro/payt/coverage/index.html",
+		"/home/dmytro/payt/app/mailers/import_mailer.rb",
+		"/home/dmytro/payt/spec/factories/import_task_factory.rb",
+		"/home/dmytro/payt/app/workers/targetpay_chargeback_job.rb",
+		"/home/dmytro/payt/app/workers/foo_job.rb",
+		"/home/dmytro/payt/log/development.log",
+		"/home/dmytro/payt/app/workers/import_worker.rb",
+		"/home/dmytro/payt/app/workers/case_step_job.rb",
+		"/home/dmytro/payt/db/migrate/20140704122453_add_counter_columns_to_import_task.rb",
+		"/home/dmytro/payt/db/migrate/20140313105358_rename_import_log_id_to_import_task_id_in_versions.rb",
+		"/home/dmytro/payt/db/migrate/20140207175304_add_import_task_id_to_import_log_lines.rb",
+		"/home/dmytro/payt/db/migrate/20140206124709_add_import_task_id_to_import_log.rb",
+		"/home/dmytro/payt/db/migrate/20140206112345_create_import_tasks.rb",
+		"/home/dmytro/payt/lib/tasks/set_active_companies.rake",
+		"/home/dmytro/payt/app/models/sms_action.rb",
+		"/home/dmytro/payt/app/views/email_actions/step0_email.text.erb",
+		"/home/dmytro/payt/app/workers/response_handler.rb",
+		"/home/dmytro/payt/app/workers/case_step_worker.rb",
+		"/home/dmytro/payt/app/models/email_action.rb",
+		"/home/dmytro/payt/app/models/invoice.rb",
+		"/home/dmytro/payt/app/models/message.rb",
+		"/home/dmytro/payt/spec/factories/message_factory.rb",
+		"/home/dmytro/payt/app/workers/targetpay_chargeback_worker.rb",
+		"/home/dmytro/payt/app/models/case_step.rb",
+		"/home/dmytro/payt/db/schema.rb",
+		"/home/dmytro/payt/spec/models/case_action_spec.rb",
+		"/home/dmytro/payt/app/models/case_action.rb",
+		"/home/dmytro/payt/app/assets/javascripts/modals.js.coffee",
+		"/home/dmytro/payt/.idea/modules.xml",
+		"/home/dmytro/payt/app/models/debtor.rb",
+		"/home/dmytro/payt/app/assets/images/ggn_mastering_credit.xcf",
+		"/home/dmytro/payt/lib/factories/build_flows.rb",
+		"/home/dmytro/payt/tmp/cache/assets/debiteurenbeheer/sass/70f07f2ffebc5677fa2e556a3d718f0a908eda28/_bourbon-deprecated-upcoming.scssc",
+		"/home/dmytro/payt/app/controllers/dashboards_controller.rb",
+		"/home/dmytro/payt/app/assets/stylesheets/companies.scss",
+		"/home/dmytro/payt/app/controllers/companies_controller.rb",
+		"/home/dmytro/payt/spec/factories/company_factory.rb",
+		"/home/dmytro/payt/spec/models/company_spec.rb",
+		"/home/dmytro/payt/config/initializers/warden.rb",
+		"/home/dmytro/payt/app/models/workflow_action.rb",
+		"/home/dmytro/payt/app/models/workflow.rb",
+		"/home/dmytro/payt/app/views/admin/reports/cases_report.erb",
+		"/home/dmytro/payt/spec/fixtures/imports/csv/second_example.csv",
+		"/home/dmytro/payt/app/models/company/billing.rb",
+		"/home/dmytro/payt/app/models/direct_debit_transaction.rb",
+		"/home/dmytro/payt/app/models/invoice_resource.rb",
+		"/home/dmytro/payt/app/models/external_oauth_token.rb",
+		"/home/dmytro/payt/app/forms/signup_form.rb",
+		"/home/dmytro/payt/app/views/actions/invoice_letters/_recipient.html.haml",
+		"/home/dmytro/payt/app/controllers/remarks_controller.rb",
+		"/home/dmytro/payt/README.md",
+		"/home/dmytro/payt/config/routes.rb",
+		"/home/dmytro/payt/spec/lib/executer_spec.rb",
+		"/home/dmytro/payt/script/delayed_job",
+		"/home/dmytro/payt/lib/factories/template_actions.rb",
+		"/home/dmytro/payt/db/migrate/20140902090700_add_indexes_to_polymorphic_models.rb",
+		"/home/dmytro/payt/app/models/planned_payment.rb",
+		"/home/dmytro/payt/app/models/user.rb",
+		"/home/dmytro/payt/.gitignore",
+		"/home/dmytro/payt/app/controllers/debtor_portal/case_actions_controller.rb",
+		"/home/dmytro/payt/app/models/letter_queue.rb",
+		"/home/dmytro/payt/spec/controllers/authentication.rb"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 182.0,
+		"where_history":
+		[
+			"/home/dmytro/react-webpack-rails-tutorial/client",
+			"/home/dmytro/payt",
+			"/home/dmytro/payt/",
+			"/home/dmytro/payt/app/controllers",
+			"/home/dmytro/payt",
+			"/home/dmytro/payt/",
+			"/home/dmytro/payt/spec",
+			"/home/dmytro/payt/app/views/debtor_mailer",
+			"/home/dmytro/payt/app/views",
+			"/home/dmytro/payt",
+			"/home/dmytro/payt/app/views/debtor_portal",
+			"/home/dmytro/payt/",
+			"/home/dmytro/payt/app/views",
+			"/home/dmytro/payt/app",
+			"/home/dmytro/payt/spec/factories",
+			"/home/dmytro/payt/",
+			"/home/dmytro/payt/app/models",
+			"/home/dmytro/payt/",
+			"/home/dmytro/payt/app/controllers",
+			"/home/dmytro/payt",
+			"/home/dmytro/payt/",
+			"/home/dmytro/payt/spec",
+			"/home/dmytro/payt/rspec",
+			"/home/dmytro/payt/",
+			"/home/dmytro/payt/spec",
+			"/home/dmytro/payt",
+			"/home/dmytro/payt/app/models",
+			"/home/dmytro/payt/app/",
+			"/home/dmytro/payt/app/views/",
+			"/home/dmytro/payt/",
+			"/home/dmytro/giquino/config",
+			"/home/dmytro/payt-application/lib",
+			"/home/dmytro/payt-application/app",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/config",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/app/",
+			"/home/dmytro/payt-application/app/controller/",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/app/models",
+			"/home/dmytro/payt-application/app/model",
+			"/home/dmytro/payt-application/",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/specs",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/",
+			"/home/dmytro/payt-application/app/models",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/app/views",
+			"/home/dmytro/payt-application/",
+			"/home/dmytro/giquino",
+			"/home/dmytro/payt-application/app/",
+			"/home/dmytro/payt-application/app/models",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/spec/factories",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/spec/factories",
+			"/home/dmytro/payt-application/app/views",
+			"/home/dmytro/payt-application/spec/views",
+			"/home/dmytro/payt-application/spec/factories",
+			"/home/dmytro/payt-application/",
+			"/home/dmytro/payt-application/spec/factories",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/app/controllers",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/app/models/",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/app",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/config",
+			"/home/dmytro/payt-application/app/controllers",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/spec/fixtures/email_sanitizer",
+			"/home/dmytro/payt-application/app",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/",
+			"/home/dmytro/payt-application/config",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/",
+			"/home/dmytro/payt-application/config",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/config/environments",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/spec/",
+			"/home/dmytro/payt-application/app/models",
+			"/home/dmytro/payt-application/app",
+			"/home/dmytro/payt-application",
+			"/home/dmytro/payt-application/app",
+			"/home/dmytro/payt-application/spec",
+			"/home/dmytro/payt-application/spec/factories",
+			"/home/dmytro/payt-application/config",
+			"/home/dmytro/lm-lifecycle",
+			"/home/dmytro/chef2/cookbooks/td-app-dash",
+			"/home/dmytro/lm-lifecycle",
+			"/home/dmytro/segments2/app/controllers",
+			"/home/dmytro/segments2",
+			"/home/dmytro/segments2/app/assets/stylesheets",
+			"/home/dmytro/segments2/",
+			"/home/dmytro/segments2/app/assets",
+			"/home/dmytro/segments2/app/assets/stylesheets",
+			"/home/dmytro/segments",
+			"/home/dmytro/mandinkolystbck",
+			"/home/dmytro/loopme-server/app/view",
+			"/home/dmytro/loopme-server/",
+			"/home/dmytro/loopme-server/app/models/statistics",
+			"/home/dmytro/loopme-server",
+			"/home/dmytro/segments2",
+			"/home/dmytro/segments-profiles-merger",
+			"/home/dmytro/segments2",
+			"/home/dmytro/loopme-server",
+			"/home/dmytro/segments2",
+			"/home/dmytro/segmentation/app",
+			"/home/dmytro/segments2",
+			"/home/dmytro/chef",
+			"/home/dmytro/chef/site-cookbooks",
+			"/home/dmytro/chef",
+			"/home/dmytro/chef/nodes",
+			"/home/dmytro/chef/site-cookbooks",
+			"/home/dmytro/chef/nodes",
+			"/home/dmytro/chef/site-cookbooks",
+			"/home/dmytro/chef"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"function",
+			"WebAPIUtils",
+			"errors",
+			"Error",
+			": function",
+			"function()",
+			"javascript",
+			"ignored",
+			"ignored_packages",
+			"watch:",
+			"reload:",
+			"reload",
+			"js",
+			"react",
+			" \\n\\n",
+			"schema_plus",
+			"Warden",
+			"oau",
+			"schem",
+			"1.8",
+			"< 4.3",
+			" < 4.3",
+			"send_debtor_reminders",
+			"pry",
+			"run",
+			"perform_later",
+			"autostart",
+			"inform_at",
+			"info",
+			"ActiveJob::Base",
+			"GenericJob.perform_later([^,]+, ):([^,\\)]+)",
+			"GenericJob",
+			"    ",
+			"   ",
+			"  ",
+			"rails",
+			"activerec",
+			"active",
+			"rails",
+			"perform_later",
+			"CaseStepJob",
+			"delay.",
+			"delay",
+			"bailiff_date",
+			"forwardable",
+			"delay.",
+			"schedule",
+			"TargetPayChargeback",
+			"TargetPayChargebackWorker",
+			"ResponseHandler",
+			"Import",
+			"que",
+			"queue_adapter",
+			"job",
+			"ImportWorker",
+			"CaseStepWorker",
+			"save_for_automated",
+			"dela",
+			"ImportJob",
+			"oa",
+			"WardenO",
+			"perform",
+			"unbill",
+			"transactions",
+			"invoice_id",
+			"save_for_automated_exact_online",
+			"save",
+			"DeliverHQInvoiceFetcher",
+			"delay",
+			"Client",
+			"end",
+			"delay_schedule",
+			"delay",
+			"invoices\"",
+			"invoices",
+			"bigint",
+			"email",
+			"repl",
+			"haml",
+			"rails",
+			"oauth",
+			"after_(c|r)",
+			"after_c|r",
+			"after_",
+			"respond",
+			"respond_to",
+			"delive",
+			"deliver(\\s|$)",
+			"deliver\\s|$",
+			"deliver(",
+			"deliver",
+			"\\.deliver\\(| ",
+			"oauth",
+			"oauth_token",
+			"company",
+			"compan",
+			"company",
+			"render partial: 'comp",
+			"WardenOauthProvider",
+			"after_[a-z]o",
+			"after_?o",
+			"after_?o.{2}",
+			"after_c",
+			"resourceful?",
+			"responder",
+			"has_errors",
+			"error",
+			"without_protection",
+			"\n					",
+			"without_",
+			"WardenOauthProvider",
+			"admin",
+			"WardenOauthProvider",
+			"war",
+			"oau",
+			"oauth",
+			"empty",
+			"empty?",
+			"emp",
+			"empty?",
+			"debtor",
+			"deliver",
+			".deliver( |\\()",
+			".deliver",
+			"pry",
+			"now",
+			"flash.now"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			"\\n",
+			"GenericJob.perform_later\\1'\\2'",
+			"\\t",
+			"deliver_now\\1",
+			".deliver_now",
+			"data: {confirm: \\1}",
+			"skip",
+			"skipped",
+			"",
+			"\\t",
+			"data: {confirm: \\1)",
+			" ",
+			"find_or_create_by(name: ",
+			"",
+			"config.assets.js_compressor = :uglifier",
+			"  ",
+			"",
+			"  ",
+			"dash",
+			"\",\n          \"",
+			"ENV['PROFILES_INDEX']",
+			"ENV['PROFILES_INDEX']='profiles-*'",
+			"\"buckets\":\n",
+			"{\"buckets\":[\n",
+			",",
+			"",
+			"\n",
+			"",
+			"\\1",
+			"",
+			"'",
+			"~~> ",
+			">",
+			"⅏",
+			"",
+			"\\1",
+			"",
+			"'",
+			" ",
+			"",
+			",",
+			"",
+			";\n",
+			"",
+			"ubuntu",
+			"  ",
+			"",
+			"opts.merge",
+			"",
+			"\"",
+			"",
+			":{\n\n",
+			":\n{\n",
+			":\n",
+			"",
+			"profiles",
+			"darken($loopme-red-color, 5%)",
+			"$loopme-red-color",
+			" ",
+			"",
+			"@import",
+			"apps_and_sites",
+			"@segment.kind_of?",
+			"@segment.",
+			"','",
+			"",
+			"false",
+			"\"",
+			"",
+			"t], active_if: [:admin, :test],",
+			", active_if: [:admin, :test] %>",
+			", :admin, :test], as: ",
+			"<%= li_link_to [:",
+			"env",
+			": ",
+			"default :",
+			"@@",
+			"@",
+			"Rails.application.config.",
+			"",
+			"log",
+			"\\1:",
+			"refute ",
+			"assert ",
+			"ZA",
+			"app",
+			".excluded?('zz'",
+			"login_as \\1",
+			"",
+			"is",
+			"refute",
+			"reffute",
+			"assert",
+			" ",
+			"d_file",
+			"user",
+			" =",
+			"",
+			"default['apps']['segments']['env']['\\1']= \\2",
+			"\\\"",
+			"\\\\",
+			"viewer_token",
+			"\\1:",
+			": \\1",
+			": ",
+			"\\1:",
+			"\":",
+			"",
+			"'",
+			" ",
+			"",
+			"./",
+			"DatabaseRewinder",
+			"joins([campaign: :user])",
+			"creative",
+			"\\1autocomplete_path",
+			"publisher_earnings",
+			"'admin/test",
+			"path: '/admin/",
+			"def test_test_\\1_route\n      assert_routing(\n        {method: :get, path: 'test/\\1'},\n        {controller: 'test', action: '\\1'}\n    end\n",
+			"def test_test_\\2_route\n      assert_routing(\n        {method: :get, path: 'test/\\2'},\n        {controller: 'test', action: '\\2'}\n    end",
+			"def test_test_\\2_route\n      assert_routing(\n        {method: :get, path: 'test/\\2'},\n        {controller: 'test', action: '\\2'}\n  end",
+			"def test_test_\\2_route\n    assert_routing(\n      {method: :get, path: 'test/\\2'},\n      {controller: 'test', action: '\\2'})\n  end",
+			"def test_test_\\2_route\n    assert_routing(\n      {method: :get, path: 'test/\\2'},\n      {controller: 'test', action: '\\2'})\nend",
+			"'autocomplete'",
+			"action: '\\1'",
+			"def test_\\1_\\2"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/assets/javascripts/flux/stores/BeanItemStore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/assets/javascripts/flux/stores/BeanListStore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/assets/javascripts/react/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/assets/scripts/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/assets/scripts/App.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/assets/javascripts/react/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								735,
+								735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/assets/javascripts/react/pages/LoginPage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var React = require('react');",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/dmytro/react-webpack-rails-tutorial/client/assets/javascripts",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "client/assets/javascripts/api/BillingAPI.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "client/assets/javascripts/flux/actions/SessionActionCreators.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var SmallAppDispatcher = require('../dispatcher/Sm",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "client/assets/javascripts/react/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.9o:///home/dmytro/loopme-server/test":
+	{
+		"height": 236.0
+	},
+	"output.9o:///home/dmytro/payt-application/spec/factories":
+	{
+		"height": 194.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 308.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 260.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 234.0
+	},
+	"output.exec":
+	{
+		"height": 596.0
+	},
+	"output.find_results":
+	{
+		"height": 445.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 204.0
+	},
+	"pinned_build_system": "",
+	"project": "billing.sublime-project",
+	"replace":
+	{
+		"height": 124.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"gene",
+				"app/workers/generic_job.rb"
+			],
+			[
+				"exec",
+				"spec/lib/executer_spec.rb"
+			],
+			[
+				"pageoff",
+				"app/controllers/page_offline_template.rb"
+			],
+			[
+				"creditca",
+				"app/models/credit_case.rb"
+			],
+			[
+				"bundle",
+				"bin/bundle"
+			],
+			[
+				"middl",
+				"config/initializers/middleware.rb"
+			],
+			[
+				"lock",
+				"Gemfile.lock"
+			],
+			[
+				"gemli",
+				"Gemfile.lock"
+			],
+			[
+				"spe",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gener",
+				"app/workers/generic_job.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"creditcreat",
+				"app/services/credit_cases/create.rb"
+			],
+			[
+				"importspec",
+				"spec/features/import_spec.rb"
+			],
+			[
+				"deliver",
+				"app/services/import/deliver_hq_invoice_fetcher.rb"
+			],
+			[
+				"deliverh",
+				"spec/fixtures/vcr_cassettes/deliverhq_attachment.yml"
+			],
+			[
+				"importjob",
+				"app/workers/import_job.rb"
+			],
+			[
+				"ex",
+				"lib/executer.rb"
+			],
+			[
+				"messagc",
+				"app/controllers/messages_controller.rb"
+			],
+			[
+				"gem.l",
+				"Gemfile.lock"
+			],
+			[
+				"credit",
+				"app/models/credit_case.rb"
+			],
+			[
+				"importtask",
+				"app/models/import/task.rb"
+			],
+			[
+				"test",
+				"config/environments/test.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"task",
+				"app/models/import/task.rb"
+			],
+			[
+				"creditcase",
+				"app/models/credit_case.rb"
+			],
+			[
+				"messagco",
+				"app/controllers/messages_controller.rb"
+			],
+			[
+				"importjo",
+				"app/workers/import_job.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"gme",
+				"Gemfile"
+			],
+			[
+				"modlcase",
+				"app/models/case_step.rb"
+			],
+			[
+				"compan",
+				"app/models/company.rb"
+			],
+			[
+				"casester",
+				"app/models/case_step.rb"
+			],
+			[
+				"exece",
+				"lib/executer.rb"
+			],
+			[
+				"modelcom",
+				"app/models/company.rb"
+			],
+			[
+				"com",
+				"app/models/company.rb"
+			],
+			[
+				"invoicereso",
+				"app/models/invoice_resource.rb"
+			],
+			[
+				"companies",
+				"app/controllers/admin/companies_controller.rb"
+			],
+			[
+				"companiesc",
+				"app/controllers/companies_controller.rb"
+			],
+			[
+				"recieve",
+				"lib/receiver.rb"
+			],
+			[
+				"execu",
+				"lib/executer.rb"
+			],
+			[
+				"invoicecon",
+				"app/controllers/invoices_controller.rb"
+			],
+			[
+				"import",
+				"app/models/import.rb"
+			],
+			[
+				"exter",
+				"app/models/external_oauth_token.rb"
+			],
+			[
+				"credit_c",
+				"app/models/credit_case.rb"
+			],
+			[
+				"appl",
+				"config/application.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"routs",
+				"config/routes.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"midd",
+				"config/initializers/middleware.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"oauth_tok",
+				"app/models/external_oauth_token.rb"
+			],
+			[
+				"middle",
+				"config/initializers/middleware.rb"
+			],
+			[
+				"ge",
+				"lib/exact_online_api/restful/resources/general_journal_entry_lines.rb"
+			],
+			[
+				"abili",
+				"app/models/ability.rb"
+			],
+			[
+				"compacon",
+				"app/controllers/companies_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"gemfl",
+				"Gemfile.lock"
+			],
+			[
+				"applicreso",
+				"app/controllers/application_responder.rb"
+			],
+			[
+				"modelinvoi",
+				"app/models/invoice.rb"
+			],
+			[
+				"simplefor",
+				"config/initializers/simple_form_foundation.rb"
+			],
+			[
+				"confmidd",
+				"config/initializers/middleware.rb"
+			],
+			[
+				"invoiceact",
+				"app/models/invoice_action.rb"
+			],
+			[
+				"invoiceema",
+				"app/models/actions/invoice_email.rb"
+			],
+			[
+				"modelinvoiceact",
+				"app/models/invoice_action.rb"
+			],
+			[
+				"debtorma",
+				"app/mailers/debtor_mailer.rb"
+			],
+			[
+				"flowspe",
+				"spec/models/flow_spec.rb"
+			],
+			[
+				"invoice_steps",
+				"spec/factories/invoice_steps.rb"
+			],
+			[
+				"modeinvoice",
+				"app/models/invoice.rb"
+			],
+			[
+				"factinvoi",
+				"spec/factories/invoices.rb"
+			],
+			[
+				"flowspec",
+				"spec/models/flow_spec.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"idea",
+				"config/initializers/ideal.rb"
+			],
+			[
+				"messagfac",
+				"spec/factories/message_factory.rb"
+			],
+			[
+				"paymentpla",
+				"app/models/payment_plan.rb"
+			],
+			[
+				"factpaym",
+				"spec/factories/payment_plan_factory.rb"
+			],
+			[
+				"factmess",
+				"spec/factories/message_factory.rb"
+			],
+			[
+				"dashboar",
+				"app/views/dashboards/show.html.haml"
+			],
+			[
+				"featdasb",
+				"spec/features/owner_dashboard_spec.rb"
+			],
+			[
+				"dashboardco",
+				"app/controllers/dashboards_controller.rb"
+			],
+			[
+				"faccom",
+				"spec/factories/company_factory.rb"
+			],
+			[
+				"factdeb",
+				"spec/factories/debtors.rb"
+			],
+			[
+				"modeldeb",
+				"app/models/debtor.rb"
+			],
+			[
+				"comp",
+				"app/models/company.rb"
+			],
+			[
+				"factocom",
+				"spec/factories/company_factory.rb"
+			],
+			[
+				"facadm",
+				"spec/factories/administrations.rb"
+			],
+			[
+				"featdas",
+				"spec/features/owner_dashboard_spec.rb"
+			],
+			[
+				"factcre",
+				"spec/factories/credit_case_factory.rb"
+			],
+			[
+				"credit_",
+				"app/models/credit_case.rb"
+			],
+			[
+				"spech",
+				"spec/spec_helper.rb"
+			],
+			[
+				"creditcasfac",
+				"spec/factories/credit_case_factory.rb"
+			],
+			[
+				"faccreditcas",
+				"spec/factories/credit_case_factory.rb"
+			],
+			[
+				"factuser",
+				"spec/factories/user_factory.rb"
+			],
+			[
+				"factcreit",
+				"spec/factories/credit_case_factory.rb"
+			],
+			[
+				"dashco",
+				"app/controllers/dashboards_controller.rb"
+			],
+			[
+				"",
+				"app/models/credit_case.rb"
+			],
+			[
+				"nl",
+				"config/locales/nl.yml"
+			],
+			[
+				"creditcasecont",
+				"app/controllers/credit_cases_controller.rb"
+			],
+			[
+				"faccreditcase",
+				"spec/factories/credit_case_factory.rb"
+			],
+			[
+				"dash",
+				"app/controllers/dashboards_controller.rb"
+			],
+			[
+				"userfa",
+				"spec/factories/user_factory.rb"
+			],
+			[
+				"dashb",
+				"app/controllers/dashboards_controller.rb"
+			],
+			[
+				"factocre",
+				"spec/factories/credit_case_factory.rb"
+			],
+			[
+				"user",
+				"spec/factories/user_factory.rb"
+			],
+			[
+				"facomp",
+				"spec/factories/company_factory.rb"
+			],
+			[
+				"specin",
+				"spec/factories/invoice_steps.rb"
+			],
+			[
+				"specinvoi",
+				"spec/models/invoice_spec.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"sheduin",
+				"app/views/dashboards/_scheduled_invoice_steps.html.slim"
+			],
+			[
+				"speche",
+				"spec/spec_helper.rb"
+			],
+			[
+				"signinspec",
+				"spec/features/signin_spec.rb"
+			],
+			[
+				"auth",
+				"spec/controllers/authentication.rb"
+			],
+			[
+				"modelinvoiceste",
+				"app/models/invoice_step.rb"
+			],
+			[
+				"invoice",
+				"app/models/invoice.rb"
+			],
+			[
+				"invoicestep",
+				"app/models/invoice_step.rb"
+			],
+			[
+				"invoiceste",
+				"app/models/invoice_step.rb"
+			],
+			[
+				"invoice_ste",
+				"app/models/invoice_step.rb"
+			],
+			[
+				"case_step",
+				"app/models/case_step.rb"
+			],
+			[
+				"scheduin",
+				"app/views/dashboards/_scheduled_invoice_steps.html.slim"
+			],
+			[
+				"dashboarshow",
+				"app/views/dashboards/show.html.haml"
+			],
+			[
+				"dasboarco",
+				"app/controllers/dashboards_controller.rb"
+			],
+			[
+				"execspec",
+				"spec/lib/executer_spec.rb"
+			],
+			[
+				"exce",
+				"lib/executer.rb"
+			],
+			[
+				"apptrans",
+				"app/models/transaction.rb"
+			],
+			[
+				"paymenthaml",
+				"app/views/payments/_payment.html.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 800.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Elastic",
+				"Elastic::AdDelivery"
+			]
+		],
+		"width": 986.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 487.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

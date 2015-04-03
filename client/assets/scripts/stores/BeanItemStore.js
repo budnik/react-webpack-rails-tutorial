@@ -1,3 +1,5 @@
+'use strict';
+
 var alt = require('../alt');
 var BeanItemActions = require('../actions/BeanItemActions');
 
