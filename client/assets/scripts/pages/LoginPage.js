@@ -1,40 +1,48 @@
 'use strict';
 
 var React = require('react');
-var SessionActionCreators = require('../actions/SessionActionCreators');
-// var SessionStore = require('../../stores/SessionStore.react.jsx');
+var SessionActions = require('../actions/SessionActions');
+var SessionStore = require('../stores/SessionStore');
+
+var ErrorNotice = React.createClass({
+  render() {
+    return (
+      <h1 style={{color: 'red'}}> {this.props.errors[0]} </h1>
+    );
+  }
+});
 
 var LoginPage = React.createClass({
   getInitialState() {
-    return { errors: [] };
+    return SessionStore.getState();
   },
 
-  // componentDidMount() {
-  //   SessionStore.addChangeListener(this._onChange);
-  // },
+  componentWillMount() {
+    SessionStore.listen(this._onChange);
+  },
 
-  // componentWillUnmount() {
-  //   SessionStore.removeChangeListener(this._onChange);
-  // },
+  componentWillUnmount() {
+    SessionStore.unlisten(this._onChange);
+  },
 
-  // _onChange() {
-  //   this.setState({ errors: SessionStore.getErrors() });
-  // },
+  _onChange() {
+    var errorMsg = SessionStore.getState().errors.message;
+    this.setState({ errors: [errorMsg] });
+  },
 
   _onSubmit(e) {
     e.preventDefault();
-    this.setState({ errors: [] });
+    this.setState({ errors: ["hold on..."] });
     var email = this.refs.email.getDOMNode().value;
     var password = this.refs.password.getDOMNode().value;
-    SessionActionCreators.login(email, password);
+    SessionActions.login(email, password);
   },
 
   render() {
-    // var errors = (this.state.errors.length > 0) ? <ErrorNotice errors={this.state.errors}/> : <div></div>;
-    var errors = '';
+    var error = (this.state.errors > 0) ? this.state.errors[0] : '';
     return (
       <div>
-        {errors}
+        <ErrorNotice  errors={this.state.errors} />
         <div className="row">
           <div className="card card--login small-10 medium-6 large-4 columns small-centered">
             <form onSubmit={this._onSubmit}>

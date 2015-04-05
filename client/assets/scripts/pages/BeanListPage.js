@@ -48,7 +48,7 @@ var BeanListPage = React.createClass({
 
         return (
             <div>
-                <h2>Take your pick </h2>
+                <h2>Take your pick</h2>
                 <ul>
                     {beanList}
                 </ul>
