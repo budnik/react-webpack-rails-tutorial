@@ -15,7 +15,10 @@ var BeanListItem = React.createClass({
                     {this.props.bean.bean_name}
                     </div>
                     <div className="card-section">
-                    <p className="small">ololo lo lo!</p>
+                        <ul>
+                          <li>ololo lo lo!</li>
+                          <li>ololo lo lo!</li>
+                        </ul>
                     </div>
                 </div>
             </Link>

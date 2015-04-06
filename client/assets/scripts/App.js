@@ -1,24 +1,30 @@
-var React = require('react');
-var { RouteHandler, Link } = require('react-router');
-var { PropTypes } = React;
+'use strict';
+import React from 'react';
 import SideBar from './components/SideBar';
+import NavBar from './components/NavBar';
+import { RouteHandler } from 'react-router';
+import ListenerMixin from 'alt/mixins/ListenerMixin';
+import SessionStore from './stores/SessionStore';
 
-var Menu = React.createClass({
-    render: function() {
-        return (
-            <div id="header" className="shrink collapse grid-content">
-              <ul className="menu-bar primary">
-                <li className="hide-for-medium"><a zf-open="sidebar" href="#">Menu</a></li>
-                <li><Link to='login'>Login</Link></li>
-                <li><a href="#">Events</a></li>
-                <li><a href="#">Pricing Models</a></li>
-                <li><a href="#">Partners</a></li>
-              </ul>
-            </div>
-        )
-    }
-})
+var { PropTypes } = React;
+
 var App = React.createClass({
+    mixins: [ListenerMixin],
+    getInitialState() {
+      return ({loggedIn: this._loggedIn()});
+    },
+
+    componentWillMount() {
+      SessionStore.listen(this._onChange);
+    },
+
+    _onChange() {
+    this.setState({ loggedIn: this._loggedIn() });
+    },
+
+    _loggedIn(){
+      return !!(SessionStore.getState().session || {}).access_token;
+    },
 
     propTypes: {
         params: PropTypes.object.isRequired,
@@ -31,7 +37,7 @@ var App = React.createClass({
               <SideBar/>
 
               <div className="grid-block collapse medium-9 large-9 vertical">
-                <Menu/>
+                <NavBar guest={this.state.loggedIn}/>
                 <div className="grid-block">
                   <div className="grid-block small-12 medium-12 vertical">
                     <div className="grid-content">
