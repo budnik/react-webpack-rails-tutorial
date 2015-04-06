@@ -49,9 +49,9 @@ var BeanListPage = React.createClass({
         return (
             <div>
                 <h2>Take your pick</h2>
-                <ul>
+                <div className="vertical medium-horizontal grid-block small-up-2">
                     {beanList}
-                </ul>
+                </div>
             </div>
         );
     }

@@ -9,14 +9,15 @@ var BeanListItem = React.createClass({
         };
 
         return(
-            <Link to='beanItemPage' params={{beanID: this.props.bean.bean_id}}>
-                <li style={itemStyle}
-                    className="bean-list-item"
-                    key={this.props.bean.bean_id}>
-
-                        {this.props.bean.bean_name}
-
-                </li>
+            <Link to='beanItemPage' params={{beanID: this.props.bean.bean_id}} className="grid-content small-6">
+                <div className="card bean-list-item"style={itemStyle} key={this.props.bean.bean_id}>
+                    <div className="card-divider">
+                    {this.props.bean.bean_name}
+                    </div>
+                    <div className="card-section">
+                    <p className="small">ololo lo lo!</p>
+                    </div>
+                </div>
             </Link>
         )
     }

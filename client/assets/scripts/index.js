@@ -8,6 +8,6 @@ var routes = require('./routes');
 // });
 
 Router.run(routes, Router.HistoryLocation, (Handler, state) => {
-  React.render(<Handler {...state} />, document.getElementById('content'));
+  React.render(<Handler {...state} />, document.body);
 });
 
