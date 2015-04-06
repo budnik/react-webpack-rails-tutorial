@@ -26,16 +26,17 @@ var LoginForm = React.createClass({
   },
 
   _onChange() {
+
     var errorMsg = SessionStore.getState().errors.message;
     if (errorMsg) {
       console.log(`%c${errorMsg}`, 'color: red; font-size: x-small');
-      this.setState({ errors: [errorMsg] });
+      this.setState({ isLoading: false, errors: [errorMsg] });
     }
   },
 
   _onSubmit(e) {
     e.preventDefault();
-    this.setState({ errors: ["hold on..."] });
+    this.setState({ errors: [], isLoading: true });
     var email = this.refs.email.getDOMNode().value;
     var password = this.refs.password.getDOMNode().value;
     SessionActions.login(email, password);

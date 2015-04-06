@@ -4,18 +4,16 @@ var React = require('react');
 var SessionStore = require('../stores/SessionStore');
 var LoginForm = require('../components/LoginForm');
 var { Link } = require('react-router');
+var ListenerMixin = require('alt/mixins/ListenerMixin');
 
 var LoginPage = React.createClass({
+  mixins: [ListenerMixin],
   getInitialState() {
     return ({loggedIn: this._loggedIn()});
   },
 
   componentWillMount() {
     SessionStore.listen(this._onChange);
-  },
-
-  componentWillUnmount() {
-    SessionStore.unlisten(this._onChange);
   },
 
   _onChange() {

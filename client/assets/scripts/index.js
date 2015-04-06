@@ -1,6 +1,13 @@
 var React = require('react');
-var router = require('./router');
+var Router = require('react-router');
+var routes = require('./routes');
 
-router.run((Handler, state) => {
-    React.render(<Handler {...state} />, document.body);
+// var router = Router.create({
+//     location : Router.HistoryLocation,
+//     routes : routes
+// });
+
+Router.run(routes, Router.HistoryLocation, (Handler, state) => {
+  React.render(<Handler {...state} />, document.getElementById('content'));
 });
+

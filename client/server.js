@@ -10,9 +10,11 @@ var comments = [{author: 'Pete Hunt', text: 'Hey there!'},
 var server = new WebpackDevServer(webpack(config), {
   // contentBase: "/assets",
   publicPath: config.output.publicPath,
+  // publicPath: '/assets/',
   hot: true,
   noInfo: false,
-  stats: {colors: true}
+  stats: {colors: true},
+  historyApiFallback: true
 });
 
 server.app.use(bodyParser.json());
