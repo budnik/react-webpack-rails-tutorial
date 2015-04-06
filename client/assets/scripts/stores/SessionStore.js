@@ -7,8 +7,8 @@ class SessionStore {
     constructor() {
         this.bindActions(SessionActions);
 
-        this.Session = {};
-        this.errors = ["No Errors!"];
+        this.session = {};
+        this.errors = [];
     }
 
     onLogin(login){
@@ -16,7 +16,8 @@ class SessionStore {
             this.errors = login.err;
         } else {
             this.errors = [];
-            this.Session = login.response.body;
+
+            this.session = login.response.body;
         }
     }
 }
